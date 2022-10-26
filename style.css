@@ -20,7 +20,7 @@ body {
 }
 
 .page-bg {
-  background: #111 url("https://images.unsplash.com/photo-1548092372-0d1bd40894a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80=") no-repeat top center;
+  background: #111 url("https://images.unsplash.com/photo-1547190027-9156686aa2f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80") no-repeat top center;
   background-size: cover;
   z-index: -1;
 }
@@ -113,4 +113,18 @@ body {
   text-align: center;
   color: #fff;
   z-index: 2;
+}
+
+
+canvas {
+  display: block;
+  position: absolute;
+  height: 13%;
+}
+
+@media only screen and (max-width: 700px) {
+  canvas {
+      height: 3em;
+      width: 27em;
+  }
 }
