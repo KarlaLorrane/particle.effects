@@ -22,11 +22,12 @@ var messagesArray = new Array(
     "",
     "",
     "Enter if you dare...",
-    "Welcome, Stranger...",
+    "Welcome, Stranger!",
     "You have chosen wisely...",
-    "Welcome to the unknown...",
-    "Live infinity in...",
-    "3,2,1.....",
+    "Welcome to my world.",
+    "Hold infinity in the palm of your hand,"
+    "And eternity in an hour in...",
+    "3,2,1...",
 );
 
 // ...cursor style... //
