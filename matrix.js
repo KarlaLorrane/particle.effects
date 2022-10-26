@@ -25,7 +25,7 @@ var messagesArray = new Array(
     "Welcome, Stranger!",
     "You have chosen wisely...",
     "Welcome to my world.",
-    "We are travelers on a cosmic journey, stardust, swirling and dancing in the eddies and whirlpools of infinity.",
+    "We are travelers on a cosmic journey, stardust...",
     "Hold infinity in the palm of your hand in...",
     "3,2,1...",
 );
