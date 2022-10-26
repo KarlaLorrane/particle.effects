@@ -24,7 +24,6 @@ var messagesArray = new Array(
     "Enter if you dare...",
     "Welcome, Stranger!",
     "You have chosen wisely...",
-    "Welcome to my world.",
     "We are travelers on a cosmic journey, stardust...",
     "Hold infinity in the palm of your hand in...",
     "3,2,1...",
