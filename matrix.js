@@ -26,7 +26,7 @@ var messagesArray = new Array(
     "You have chosen wisely...",
     "Welcome to my world.",
     "We are travelers on a cosmic journey, stardust, swirling and dancing in the eddies and whirlpools of infinity.",
-    "Hold infinity in the palm of your hand in..."
+    "Hold infinity in the palm of your hand in...",
     "3,2,1...",
 );
 
